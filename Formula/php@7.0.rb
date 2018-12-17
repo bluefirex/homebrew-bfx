@@ -7,7 +7,7 @@ class PhpAT70 < Formula
 
   bottle do
     root_url "https://bluefirex.com"
-    sha256 "690f494debe1a4c0959f9d8ad2e994b805e5ccf599facf7ef6389e49e20a0083" => :mojave
+    sha256 "2be87a2acc1f5c7f965730cbad2cd905b4c5befe6757bcd7e7a57a9e6956641b" => :mojave
     sha256 "c78c6fdf10de0b2c0cf3d513d74248676d421e3a00306cd18db2174bd82058b1" => :high_sierra
     sha256 "9f3b8dd88c1dc6bbcd1de60bbaadccd5d28a73043c115a49f9f3e742c647ab83" => :sierra
   end
